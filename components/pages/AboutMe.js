@@ -42,9 +42,9 @@ function AboutMe() {
         </div>
         <div className='md:flex-1 md:max-w-none'>
           <div className='text-center max-w-md flex flex-col gap-2 md:gap-8 md:leading-relaxed text-sm text-neutral-400 md:text-left md:text-base md:mx-auto'>
-            <p>Hello! I'm Sahejdeep Singh, a passionate coder driven to tackle real-world challenges through innovative technologies.</p>
+            <p>Hello! I&#39;m Sahejdeep Singh, a passionate coder driven to tackle real-world challenges through innovative technologies.</p>
             <p>Comitted to continuous self-improvement, I dedicate my free time to fitness and expanding my knowledge through reading. With a Bachelor of Science in Computer Science from Vancouver Island University, I am eager to embark on my first professional journey in the tech industry.</p>
-            <p>This portfolio is a testament to my skills and dedication. Let's connect and explore how I can be a valuable asset to your team!</p>
+            <p>This portfolio is a testament to my skills and dedication. Let&#39;s connect and explore how I can be a valuable asset to your team!</p>
           </div>
         </div>
       </div>
